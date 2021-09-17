@@ -1,0 +1,9 @@
+ {
+        "name": "BVR",
+        "address": {
+            "area": "MAMILLAGUDEM",
+            "city": "HYDERABAD",
+            "state": "TELANGANA",
+            "country": "INDIA"
+        }
+}
